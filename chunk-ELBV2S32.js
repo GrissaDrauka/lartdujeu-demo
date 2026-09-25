@@ -1,0 +1,1 @@
+var e={carteCsvUrl:"carte-test.csv",billetwebActif:!1,noindex:!0,urlPublique:"https://grissadrauka.github.io/lartdujeu-demo",donneesAccueil:{evenements:"donnees-demo/evenements.json",instagram:"donnees-demo/instagram.json",medias:"donnees-demo/medias/"}};export{e as a};

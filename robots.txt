@@ -1,0 +1,3 @@
+# Démo GitHub Pages : jamais indexée (build « demo » uniquement ; HANDOFF, « Démo GitHub Pages »).
+User-agent: *
+Disallow: /
