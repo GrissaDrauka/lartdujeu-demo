@@ -1,0 +1,1 @@
+var e={carteCsvUrl:"https://docs.google.com/spreadsheets/d/e/2PACX-1vR4zjH7drDpSyjv9bAVasix0FKwqJBM0KAhsN3UnK_TDwU4kObrBqauIZZPnQsxADewMy3ywBfROJRF/pub?output=csv",noindex:!0,urlPublique:"https://grissadrauka.github.io/lartdujeu-demo",donneesAccueil:{evenements:"donnees-demo/evenements.json",instagram:"donnees-demo/instagram.json",medias:"donnees-demo/medias/"}};export{e as a};
